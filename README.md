@@ -219,6 +219,4 @@ EXEC sp_ComplexJoin_EmployeePerformanceAnalysis;
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  ⭐ <strong>Star this repo if it helped you level up your SQL skills!</strong>
-</p>
+
