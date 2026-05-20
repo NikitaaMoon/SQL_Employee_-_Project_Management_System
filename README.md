@@ -1,5 +1,7 @@
+<h1 align="center"> Employee & Project Management System</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Advanced%20SQL%20JOINs%20Project&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Employee%20%26%20Project%20Management%20System&descAlignY=60&descSize=16" width="100%"/>
+  Advanced SQL JOINs Project | SQL Server
 </p>
 
 <p align="center">
